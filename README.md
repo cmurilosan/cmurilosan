@@ -10,9 +10,3 @@
   <img align="center" alt="Murilo-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="Murilo-gif" height="50" width="70" src="http://i0.kym-cdn.com/photos/images/newsfeed/000/363/814/eb7.gif">
 </div>
-  
-<div>
-  
-  ![Snake animation](https://github.com/cmurilosan/cmurilosan/blob/output/github-contribution-grid-snake.svg)
-  
-</div>  
