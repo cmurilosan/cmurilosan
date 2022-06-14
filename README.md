@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olaaarrrr ✌️ 
 
-<!--
-**cmurilosan/cmurilosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/cmurilosan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmurilosan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmurilosan&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Murilo-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Murilo-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="right" alt="Murilo-gif" height="50" width="70" src="http://i0.kym-cdn.com/photos/images/newsfeed/000/363/814/eb7.gif">
+</div>
+  
+![Snake animation](https://github.com/cmurilosan/cmurilosan/blob/output/github-contribution-grid-snake.svg)
