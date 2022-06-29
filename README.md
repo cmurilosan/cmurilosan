@@ -17,4 +17,3 @@
   
   ##
   
-  ![Snake animation](https://github.com/cmurilosan/cmurilosan/blob/output/github-contribution-grid-snake.svg)
